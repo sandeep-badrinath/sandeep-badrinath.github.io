@@ -2,7 +2,7 @@
 ==Sandeep Badrinath
 
 ~~~
-{}{img_left}{Sandeep_passport_photo.png}{alt text}{145}{160}{http://people.kth.se/~euhanna/}
+{}{img_left}{Sandeep_passport_photo.png}{alt text}{145}{160}{}
 PhD candidate,\n [http://aeroastro.mit.edu Department of Aeronautics and Astronautics], \n[https://www.mit.edu Massachusetts Institute of Technology (MIT)]\n
 E-mail: /sandeepb/ \[@\] mit \[DOT\] edu
 ~~~

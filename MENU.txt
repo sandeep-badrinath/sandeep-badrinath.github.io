@@ -1,6 +1,6 @@
 menu
     Home                [index.html]
     Research			[research.html]
-	Publication         [publications.html]
+	Publication         [https://scholar.google.com/citations?user=BiIOZkMAAAAJ&hl=en&oi=ao]
 
    
