@@ -1,15 +1,16 @@
-# jemdoc: menu{MENU.txt}{index.html}, nofooter  
+# jemdoc: menu{MENU.txt}{index.html}, showsource
 ==Sandeep Badrinath
 
 ~~~
-{}{img_left}{Sandeep_passport_photo.png}{alt text}{145}{160}{}
-PhD candidate,\n [http://aeroastro.mit.edu Department of Aeronautics and Astronautics], \n[https://www.mit.edu Massachusetts Institute of Technology (MIT)]\n
-E-mail: /sandeepb/ \[@\] mit \[DOT\] edu
+{}{img_left}{Sandeep_passport_photo.png}{alt text}{181}{200}{}
+Sandeep Badrinath, PhD,\n [http://aeroastro.mit.edu Department of Aeronautics and Astronautics], \n[https://www.mit.edu Massachusetts Institute of Technology (MIT)]\n
+Email: sandeepb \[@\] mit \[DOT\] edu \n
+\|[https://www.linkedin.com/in/sandeep-badrinath LinkedIn]\|[https://scholar.google.com/citations?user=BiIOZkMAAAAJ&hl=en&oi=ao Google scholar]\|
 ~~~
 
 == About me
 
-I am a PhD candidate in the Department of Aeronautics and Astronautics at the Massachusetts Institute of Technology, advised by [http://web.mit.edu/hamsa/www/ Prof. Hamsa Balakrishnan]. Before joining MIT, I received a dual degree (B.Tech. + M.Tech.) in Aerospace Engineering from the [https://www.iitm.ac.in Indian Institute of Technology Madras]. My research broadly focuses on mathematical modeling, design of control and optimization algorithms, with applications to air traffic management.
+I received my PhD from the Department of Aeronautics and Astronautics at the Massachusetts Institute of Technology (MIT). During my PhD, I was fortunate to be advised by [http://web.mit.edu/hamsa/www/ Prof. Hamsa Balakrishnan]. Before joining MIT, I received a dual degree (B.Tech. + M.Tech.) in Aerospace Engineering from the [https://www.iitm.ac.in Indian Institute of Technology Madras]. My research broadly focuses on system modeling, design of control and optimization algorithms, with applications to air traffic management.
 
 
 == Research
@@ -26,5 +27,9 @@ My research interests include
 . S. Badrinath, H. Balakrishnan, E. Clemons, and T. G. Reynolds. \"Impact of Off-block Time Uncertainty on the Control of Airport Surface Operations\", Transportation Science, 54(4), 920-943, 2020. \[[https://pubsonline.informs.org/doi/10.1287/trsc.2019.0957 link]\]
 
 [https://scholar.google.com/citations?user=BiIOZkMAAAAJ&hl=en&oi=ao Full list of publications].
+
+=== PhD Thesis
+. S. Badrinath, \"Modeling and Control of Queuing Networks: Applications to Airport Surface Operations\", Massachusetts Institute of Technology, 2021. \[[SandeepBadrinath_thesis_final.pdf link]\]
+
 
 

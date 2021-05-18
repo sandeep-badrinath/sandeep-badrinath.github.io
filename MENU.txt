@@ -1,6 +1,9 @@
 menu
     Home                [index.html]
-    Research			[research.html]
-	Publication         [https://scholar.google.com/citations?user=BiIOZkMAAAAJ&hl=en&oi=ao]
+    Research			[index.html]
+    Awards and Bio	[awards.html]
+	
+
+	Publications         [https://scholar.google.com/citations?user=BiIOZkMAAAAJ&hl=en&oi=ao]
 
    
