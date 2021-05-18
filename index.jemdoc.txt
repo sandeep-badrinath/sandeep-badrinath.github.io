@@ -1,0 +1,30 @@
+# jemdoc: Main{MENU.txt}{index.html}, nofooter  
+==Sandeep Badrinath
+
+~~~
+{}{img_left}{Sandeep_passport_photo.png}{alt text}{145}{160}{http://people.kth.se/~euhanna/}
+PhD candidate,\n [http://aeroastro.mit.edu Department of Aeronautics and Astronautics], \n[https://www.mit.edu Massachusetts Institute of Technology (MIT)]\n
+E-mail: /sandeepb/ \[@\] mit \[DOT\] edu
+~~~
+
+== About me
+
+I am a PhD candidate in the Department of Aeronautics and Astronautics at the Massachusetts Institute of Technology, advised by [http://web.mit.edu/hamsa/www/ Prof. Hamsa Balakrishnan]. Before joining MIT, I received a dual degree (B.Tech. + M.Tech.) in Aerospace Engineering from the [https://www.iitm.ac.in Indian Institute of Technology Madras]. My research broadly focuses on mathematical modeling, design of control and optimization algorithms, with applications to air traffic management.
+
+
+== Research
+My research interests include 
+- Queuing systems  
+- Applied controls and optimization
+- Air traffic management
+
+
+=== Recent Publications 
+. D. Y. Tan, S. Badrinath, H. Balakrishnan. \"Design and Analysis of Trajectory-Based Operations under Wind Forecast Uncertainty\", ICEAS Aeronautical Journal, 2021. \[[https://link.springer.com/article/10.1007/s13272-021-00501-1 link]\]
+. S. Badrinath and H. Balakrishnan. \"Robust Control of Arrivals into a Queuing Network\",  IEEE Transactions on Intelligent Transportation Systems, 2021. \[[https://ieeexplore.ieee.org/document/9312474 link]\]
+. S. Badrinath,  J. Ma, H. Balakrishnan, D. Delahaye. \"Comparative Analysis of Departure Metering at United States and European Airports\", AIAA Journal of Air Transportation, Vol. 28, No. 3, pp. 93-104, July-September 2020. \[[https://arc.aiaa.org/doi/abs/10.2514/1.D0179?journalCode=jat link]\]
+. S. Badrinath, H. Balakrishnan, E. Clemons, and T. G. Reynolds. \"Impact of Off-block Time Uncertainty on the Control of Airport Surface Operations\", Transportation Science, 54(4), 920-943, 2020. \[[https://pubsonline.informs.org/doi/10.1287/trsc.2019.0957 link]\]
+
+[https://scholar.google.com/citations?user=BiIOZkMAAAAJ&hl=en&oi=ao Full list of publications].
+
+
