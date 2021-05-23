@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU.txt}{publications.html}, showsource
+==Sandeep Badrinath
+
+
+=== Journal publications
+
+. D. Y. Tan, *S. Badrinath*, H. Balakrishnan. \"Design and Analysis of Trajectory-Based Operations under Wind Forecast Uncertainty\", ICEAS Aeronautical Journal, 2021. \[[https://link.springer.com/article/10.1007/s13272-021-00501-1 link]\]
+. *S. Badrinath* and H. Balakrishnan. \"Robust Control of Arrivals into a Queuing Network\",  IEEE Transactions on Intelligent Transportation Systems, 2021. \[[https://ieeexplore.ieee.org/document/9312474 link]\]
+. *S. Badrinath*,  J. Ma, H. Balakrishnan, D. Delahaye. \"Comparative Analysis of Departure Metering at United States and European Airports\", AIAA Journal of Air Transportation, Vol. 28, No. 3, pp. 93-104, July-September 2020. \[[https://arc.aiaa.org/doi/abs/10.2514/1.D0179?journalCode=jat link]\]
+. *S. Badrinath*, H. Balakrishnan, E. Clemons, and T. G. Reynolds. \"Impact of Off-block Time Uncertainty on the Control of Airport Surface Operations\", Transportation Science, 54(4), 920-943, 2020. \[[https://pubsonline.informs.org/doi/10.1287/trsc.2019.0957 link]\]
+. *S. Badrinath*, M. Z. Li, and H. Balakrishnan. "Integrated Surface–Airspace Model of Airport Departures." Journal of Guidance, Control, and Dynamics, 42 (5), pp: 1049-1063, 2018.  \[[https://arc.aiaa.org/doi/pdf/10.2514/1.G003964 link]\]
+. *S. Badrinath*, C. Bose, and S. Sarkar. "Identifying the route to chaos in the flow past a flapping airfoil." European Journal of Mechanics-B/Fluids 66, pp: 38-59, 2017. \[[https://www.sciencedirect.com/science/article/abs/pii/S0997754616300656 link]\]
+
+=== Peer-reviewed conference publications
+
+. D. Y. Tan, *S. Badrinath*, H. Balakrishnan. "Design and Analysis of Trajectory-Based Operations under Wind Forecast Uncertainty". International Conference on Research in Air Transportation, 2020. *Awarded Best Paper (Trajectory management and Optimization)*. \[[http://www.icrat.org/ICRAT/seminarContent/2020/abstracts/ICRAT_2020_Abstract_74.pdf link]\]
+. *S. Badrinath*, J. Ma, H. Balakrishnan, D. Delahaye. "A Comparative Analysis of Departure Metering at Paris (CDG) and Charlotte (CLT) Airports."  Proceedings of the USA/Europe Air Traffic Management R\&D Seminar, June 2019. *Awarded Best Paper (Integrated Airport/Airside Operations), ATM 2019*. \[[http://www.atmseminar.org/seminarContent/seminar13/papers/ATM_Seminar_2019_paper_92.pdf link]\]
+. *S. Badrinath*, H. Balakrishnan, E. Clemons, and T. G. Reynolds. "Evaluating the Impact of Uncertainty on Airport Surface Operations." 2018 Aviation Technology, Integration, and Operations Conference. 2018. \[[https://arc.aiaa.org/doi/10.2514/6.2018-4242 link]\]
+. A. Saraf, M. Popish, V. Sui, N. Luch, M. Rose, B. Levy, J. Cardillo, H. Balakrishnan, *S. Badrinath*, and R. Coppenbarger. "Simulation-based Benefits and Costs Assessment of NASA's Airspace Technology Demonstration-2." IEEE/AIAA 37th Digital Avionics Systems Conference (DASC), pp. 1-10. IEEE, 2018. \[[https://dspace.mit.edu/bitstream/handle/1721.1/125002/DASC2018_Saraf.pdf?sequence=2&isAllowed=y link]\]
+. *S. Badrinath* and H. Balakrishnan. "Control of a non-stationary tandem queue model of the airport surface." American Control Conference (ACC), 2017. \[[https://ieeexplore.ieee.org/document/7963027 link]\]
+. C. Bose, *S. Badrinath*, S. Gupta and S. Sarkar. "Dynamical stability analysis of a fluid-structure interaction system using a high fidelity Navier-Stokes solver". 12th International Conference on Vibration Problems, 2015. Procedia Engineering, 144, 883-890. \[[https://www.sciencedirect.com/science/article/pii/S1877705816303241 link]\]
+. *S. Badrinath* and S. Sarkar. "Intermittency behaviour in the flow past an oscillating airfoil." 45th AIAA Fluid Dynamics Conference, 2015. \[[https://arc.aiaa.org/doi/10.2514/6.2015-2769 link]\]
+. *S. Badrinath* and S. Sarkar. "Analysis of the deflected vortex street produced by a flapping airfoil." 45th AIAA Fluid Dynamics Conference, 2015. \[[https://arc.aiaa.org/doi/abs/10.2514/6.2015-2770 link]\]
+
+=== Working papers/Manuscripts under preparation
+
+. *S. Badrinath* and H. Balakrishnan. "Automatic Speech Recognition for Air Traffic Controller Communications",  submitted to Transportation Research Record: Journal of the Transportation Research Board (under review).
+. *S. Badrinath*, E. Clemons, J. Abel, H. Balakrishnan and T. G. Reynolds . "Spatial Modeling of Airport Surface Fuel Burnfor Environmental Impact Analyses",  submitted to the fourteenth USA/Europe Air Traffic Management R\&D Seminar (under review).
+. *S. Badrinath* and H. Balakrishnan. "Estimation of Taxi Fuel Burn using Aircraft Trajectories".
+
+

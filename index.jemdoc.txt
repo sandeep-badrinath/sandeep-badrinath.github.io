@@ -26,7 +26,7 @@ My research interests include
 . S. Badrinath,  J. Ma, H. Balakrishnan, D. Delahaye. \"Comparative Analysis of Departure Metering at United States and European Airports\", AIAA Journal of Air Transportation, Vol. 28, No. 3, pp. 93-104, July-September 2020. \[[https://arc.aiaa.org/doi/abs/10.2514/1.D0179?journalCode=jat link]\]
 . S. Badrinath, H. Balakrishnan, E. Clemons, and T. G. Reynolds. \"Impact of Off-block Time Uncertainty on the Control of Airport Surface Operations\", Transportation Science, 54(4), 920-943, 2020. \[[https://pubsonline.informs.org/doi/10.1287/trsc.2019.0957 link]\]
 
-[https://scholar.google.com/citations?user=BiIOZkMAAAAJ&hl=en&oi=ao Full list of publications].
+[publications.html Full list of publications].
 
 === PhD Thesis
 . S. Badrinath, \"Modeling and Control of Queuing Networks: Applications to Airport Surface Operations\", Massachusetts Institute of Technology, 2021. \[[SandeepBadrinath_thesis_final.pdf link]\]
