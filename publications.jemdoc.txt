@@ -14,7 +14,7 @@
 === Peer-reviewed conference publications
 
 . D. Y. Tan, *S. Badrinath*, H. Balakrishnan. "Design and Analysis of Trajectory-Based Operations under Wind Forecast Uncertainty". International Conference on Research in Air Transportation, 2020. *Awarded Best Paper (Trajectory management and Optimization)*. \[[http://www.icrat.org/ICRAT/seminarContent/2020/abstracts/ICRAT_2020_Abstract_74.pdf link]\]
-. *S. Badrinath*, J. Ma, H. Balakrishnan, D. Delahaye. "A Comparative Analysis of Departure Metering at Paris (CDG) and Charlotte (CLT) Airports."  Proceedings of the USA/Europe Air Traffic Management R\&D Seminar, June 2019. *Awarded Best Paper (Integrated Airport/Airside Operations), ATM 2019*. \[[http://www.atmseminar.org/seminarContent/seminar13/papers/ATM_Seminar_2019_paper_92.pdf link]\]
+. *S. Badrinath*, J. Ma, H. Balakrishnan, D. Delahaye. "A Comparative Analysis of Departure Metering at Paris (CDG) and Charlotte (CLT) Airports."  Proceedings of the USA\/Europe Air Traffic Management R\&D Seminar, June 2019. *Awarded Best Paper (Integrated Airport\/Airside Operations), ATM 2019*. \[[http://www.atmseminar.org/seminarContent/seminar13/papers/ATM_Seminar_2019_paper_92.pdf link]\]
 . *S. Badrinath*, H. Balakrishnan, E. Clemons, and T. G. Reynolds. "Evaluating the Impact of Uncertainty on Airport Surface Operations." 2018 Aviation Technology, Integration, and Operations Conference. 2018. \[[https://arc.aiaa.org/doi/10.2514/6.2018-4242 link]\]
 . A. Saraf, M. Popish, V. Sui, N. Luch, M. Rose, B. Levy, J. Cardillo, H. Balakrishnan, *S. Badrinath*, and R. Coppenbarger. "Simulation-based Benefits and Costs Assessment of NASA's Airspace Technology Demonstration-2." IEEE/AIAA 37th Digital Avionics Systems Conference (DASC), pp. 1-10. IEEE, 2018. \[[https://dspace.mit.edu/bitstream/handle/1721.1/125002/DASC2018_Saraf.pdf?sequence=2&isAllowed=y link]\]
 . *S. Badrinath* and H. Balakrishnan. "Control of a non-stationary tandem queue model of the airport surface." American Control Conference (ACC), 2017. \[[https://ieeexplore.ieee.org/document/7963027 link]\]
@@ -25,7 +25,7 @@
 === Working papers/Manuscripts under preparation
 
 . *S. Badrinath* and H. Balakrishnan. "Automatic Speech Recognition for Air Traffic Controller Communications",  submitted to Transportation Research Record: Journal of the Transportation Research Board (under review).
-. *S. Badrinath*, E. Clemons, J. Abel, H. Balakrishnan and T. G. Reynolds . "Spatial Modeling of Airport Surface Fuel Burnfor Environmental Impact Analyses",  submitted to the fourteenth USA/Europe Air Traffic Management R\&D Seminar (under review).
+. *S. Badrinath*, E. Clemons, J. Abel, H. Balakrishnan and T. G. Reynolds . "Spatial Modeling of Airport Surface Fuel Burnfor Environmental Impact Analyses",  submitted to the fourteenth USA\/Europe Air Traffic Management R\&D Seminar (under review).
 . *S. Badrinath* and H. Balakrishnan. "Estimation of Taxi Fuel Burn using Aircraft Trajectories".
 
 
