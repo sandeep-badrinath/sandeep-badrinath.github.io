@@ -3,14 +3,14 @@
 
 ~~~
 {}{img_left}{Sandeep_passport_photo.png}{alt text}{181}{200}{}
-Sandeep Badrinath, PhD,\n [http://aeroastro.mit.edu Department of Aeronautics and Astronautics], \n[https://www.mit.edu Massachusetts Institute of Technology (MIT)]\n
-Email: sandeepb \[@\] mit \[DOT\] edu \n
+Sandeep Badrinath, \n Research Scientist, \n [https://www.cmtelematics.com Cambridge Mobile Telematics],\n \n PhD in Aeronautics and Astronautics,\n[https://www.mit.edu Massachusetts Institute of Technology (MIT)]\n
+Email: sbadrinath \[@\] cmtelematics \[DOT\] com \n \n
 \|[https://www.linkedin.com/in/sandeep-badrinath LinkedIn]\|[https://scholar.google.com/citations?user=BiIOZkMAAAAJ&hl=en&oi=ao Google scholar]\|
 ~~~
 
 == About me
 
-I received my PhD from the Department of Aeronautics and Astronautics at the Massachusetts Institute of Technology (MIT). During my PhD, I was fortunate to be advised by [http://web.mit.edu/hamsa/www/ Prof. Hamsa Balakrishnan]. Before joining MIT, I received a dual degree (B.Tech. + M.Tech.) in Aerospace Engineering from the [https://www.iitm.ac.in Indian Institute of Technology Madras]. My research broadly focuses on system modeling, design of control and optimization algorithms, with applications to air traffic management.
+I am a Research Scientist at Cambridge Mobile Telematics. I received my PhD from the Department of Aeronautics and Astronautics at the Massachusetts Institute of Technology (MIT). During my PhD, I was fortunate to be advised by [http://web.mit.edu/hamsa/www/ Prof. Hamsa Balakrishnan]. Before joining MIT, I received a dual degree (B.Tech. + M.Tech.) in Aerospace Engineering from the [https://www.iitm.ac.in Indian Institute of Technology Madras]. My research broadly focuses on system modeling, design of control and optimization algorithms, with applications to transportation systems.
 
 
 == Research
