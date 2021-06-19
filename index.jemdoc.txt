@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{Sandeep_passport_photo.png}{alt text}{181}{200}{}
-Sandeep Badrinath, \n Research Scientist, \n [https://www.cmtelematics.com Cambridge Mobile Telematics],\n \n PhD in Aeronautics and Astronautics,\n[https://www.mit.edu Massachusetts Institute of Technology (MIT)]\n
+Sandeep Badrinath, \n Research Scientist, \n [https://www.cmtelematics.com Cambridge Mobile Telematics].\n \n PhD in Aeronautics and Astronautics,\n[https://www.mit.edu Massachusetts Institute of Technology (MIT).]\n
 Email: sbadrinath \[@\] cmtelematics \[DOT\] com \n \n
 \|[https://www.linkedin.com/in/sandeep-badrinath LinkedIn]\|[https://scholar.google.com/citations?user=BiIOZkMAAAAJ&hl=en&oi=ao Google scholar]\|
 ~~~
