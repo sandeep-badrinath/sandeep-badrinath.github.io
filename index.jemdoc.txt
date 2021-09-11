@@ -4,7 +4,7 @@
 ~~~
 {}{img_left}{Sandeep_passport_photo.png}{alt text}{181}{200}{}
 Sandeep Badrinath, \n Research Scientist, \n [https://www.cmtelematics.com Cambridge Mobile Telematics].\n \n PhD in Aeronautics and Astronautics,\n[https://www.mit.edu Massachusetts Institute of Technology (MIT).]\n
-Email: sbadrinath \[@\] cmtelematics \[DOT\] com \n \n
+Email: sandeepb \[@\] mit \[DOT\] edu \n \n
 \|[https://www.linkedin.com/in/sandeep-badrinath LinkedIn]\|[https://scholar.google.com/citations?user=BiIOZkMAAAAJ&hl=en&oi=ao Google scholar]\|
 ~~~
 
@@ -17,10 +17,11 @@ I am a Research Scientist at Cambridge Mobile Telematics. I received my PhD from
 My research interests include 
 - Queuing systems  
 - Applied controls and optimization
-- Air traffic management
+- Air transportation
 
 
 === Recent Publications 
+. S. Badrinath and H. Balakrishnan. \"Automatic Speech Recognition for Air Traffic Control Communications\", Transportation Research Record (2021): 03611981211036359. \[[https://journals.sagepub.com/doi/abs/10.1177/03611981211036359 link]\]
 . D. Y. Tan, S. Badrinath, H. Balakrishnan. \"Design and Analysis of Trajectory-Based Operations under Wind Forecast Uncertainty\", ICEAS Aeronautical Journal, 2021. \[[https://link.springer.com/article/10.1007/s13272-021-00501-1 link]\]
 . S. Badrinath and H. Balakrishnan. \"Robust Control of Arrivals into a Queuing Network\",  IEEE Transactions on Intelligent Transportation Systems, 2021. \[[https://ieeexplore.ieee.org/document/9312474 link]\]
 . S. Badrinath,  J. Ma, H. Balakrishnan, D. Delahaye. \"Comparative Analysis of Departure Metering at United States and European Airports\", AIAA Journal of Air Transportation, Vol. 28, No. 3, pp. 93-104, July-September 2020. \[[https://arc.aiaa.org/doi/abs/10.2514/1.D0179?journalCode=jat link]\]
