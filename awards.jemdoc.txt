@@ -3,10 +3,12 @@
 
 
 === Select Awards
-
-- Best Paper Award (Trajectory Management \& Optimization), International Conference on Research in Air Transportation (2020).
+- Honorable mention for the INFORMS Transportation Science & Logistics Society Dissertation Prize (2021).
+- Honorable mention for the INFORMS Aviation Applications Section Dissertation Prize (2021).
+- Best Paper Award (Environment \& Energy Efficiency Track), USA\/Europe Air Traffic Management R\&D Seminar (2021).
+- Best Paper Award (Trajectory Management \& Optimization Track), International Conference on Research in Air Transportation (2020).
 - Airport Cooperative Research Program (ACRP) Graduate Research Award by Transportation Research Board, USA (2019).
-- Best Paper Award (Integrated Airport\/Airside Operations), USA\/Europe Air Traffic Management R\&D Seminar (2019).
+- Best Paper Award (Integrated Airport\/Airside Operations Track), USA\/Europe Air Traffic Management R\&D Seminar (2019).
 - Institute Merit Prize from IIT Madras for the highest GPA in Aerospace Engineering during the pre-final year (2015).
 
 

@@ -14,6 +14,8 @@
 
 === Peer-reviewed conference publications
 
+
+. *S. Badrinath*, E. Clemons, J. Abel, H. Balakrishnan and T. G. Reynolds . "Spatial Modeling of Airport Surface Fuel Burnfor Environmental Impact Analyses",  Fourteenth USA\/Europe Air Traffic Management R\&D Seminar, 2021. *Awarded Best Paper (Environment and Energy Efficiency)*.  \[[http://www.atmseminar.org/seminarContent/seminar14/papers/ATM_Seminar_2021_paper_32.pdf link]\]
 . D. Y. Tan, *S. Badrinath*, H. Balakrishnan. "Design and Analysis of Trajectory-Based Operations under Wind Forecast Uncertainty". International Conference on Research in Air Transportation, 2020. *Awarded Best Paper (Trajectory management and Optimization)*. \[[http://www.icrat.org/ICRAT/seminarContent/2020/abstracts/ICRAT_2020_Abstract_74.pdf link]\]
 . *S. Badrinath*, J. Ma, H. Balakrishnan, D. Delahaye. "A Comparative Analysis of Departure Metering at Paris (CDG) and Charlotte (CLT) Airports."  Proceedings of the USA\/Europe Air Traffic Management R\&D Seminar, June 2019. *Awarded Best Paper (Integrated Airport\/Airside Operations)*. \[[http://www.atmseminar.org/seminarContent/seminar13/papers/ATM_Seminar_2019_paper_92.pdf link]\]
 . *S. Badrinath*, H. Balakrishnan, E. Clemons, and T. G. Reynolds. "Evaluating the Impact of Uncertainty on Airport Surface Operations." 2018 Aviation Technology, Integration, and Operations Conference. 2018. \[[https://arc.aiaa.org/doi/10.2514/6.2018-4242 link]\]
@@ -25,7 +27,6 @@
 
 === Working papers/Manuscripts under preparation
 
-. *S. Badrinath*, E. Clemons, J. Abel, H. Balakrishnan and T. G. Reynolds . "Spatial Modeling of Airport Surface Fuel Burnfor Environmental Impact Analyses",  Fourteenth USA\/Europe Air Traffic Management R\&D Seminar, 2021 (under review).
 . *S. Badrinath* and H. Balakrishnan. "Estimation of Taxi Fuel Burn using Aircraft Trajectories".
 
 
