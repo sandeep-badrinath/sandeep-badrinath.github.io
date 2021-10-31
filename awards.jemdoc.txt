@@ -13,8 +13,8 @@
 
 
 === Brief Bio
-Sandeep Badrinath received his PhD from MIT and a dual degree (B.Tech. + M.Tech.) from the Indian Institute of Technology Madras. His research broadly focuses on system modeling, design of control and optimization algorithms, with applications to air traffic management. In particular, his PhD dissertation focused on developing models and control algorithms for queuing networks, and these techniques were applied to reduce traffic congestion at airports. Additionally, he has worked on several other research problems in aviation such as estimating the environmental impacts of airport surface operations, design of trajectory-based operations for air traffic management and automatic speech recognition for air traffic control communications. He has collaborated with NASA, FAA and MIT Lincoln Laboratory on some of these projects. \n \n
-Sandeep was a recipient of the ACRP Graduate Research Award in 2019. He was also a recipient of the Best Paper in track at the International Conference on Research in Air Transportation in 2020 and the USA/Europe Air Traffic Management R&D Seminar in 2019. 
+Sandeep Badrinath received his PhD from MIT and a dual degree (B.Tech. + M.Tech.) from the Indian Institute of Technology Madras. His research broadly focuses on system modeling, design of control and optimization algorithms, with applications to air traffic management. In particular, his PhD dissertation focused on developing models and control algorithms for queuing networks, and these techniques were applied to reduce traffic congestion at airports. Additionally, he has worked on several other research problems in aviation such as estimating the environmental impacts of airport surface operations, design of trajectory-based operations for air traffic management and automatic speech recognition for air traffic control communications. \n \n
+
 
 
 
